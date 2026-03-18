@@ -1,7 +1,7 @@
+
 # LED-BLINK
 # 💡 Experiment 01 – Interfacing a Digital Output (LED) with ARM Development Board
-#NAME: ADHITHYA.A
-#REG.NO: 212222220004
+
 ### 🎯 **Aim**
 To interface a digital output (LED) to an ARM development board and write a blink code.
 
@@ -110,8 +110,11 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+<img width="1056" height="792" alt="image" src="https://github.com/user-attachments/assets/cafad25b-eae9-4970-afd3-8cb874a1ae6a" />
 
 CASE 2: LED OFF
+<img width="1056" height="792" alt="image" src="https://github.com/user-attachments/assets/4c803807-51c1-427f-9ea2-8f9982e3adc1" />
+
 
 ---
 ### RESULT
